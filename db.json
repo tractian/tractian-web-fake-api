@@ -1,0 +1,166 @@
+{
+  "features": [
+    {
+      "id": "insightsDiagnosis",
+      "pt": {
+        "description": "Identifique falhas em potencial e receba relatórios assertivos sobre como agir.",
+        "product": "smartTrac",
+        "url": "https://tractian.com/produto/sensor-vibracao/insights-diagnosticos"
+      },
+      "es": {
+        "description": "Identifica fallas de activos y recibe informes asertivos sobre cómo actuar.",
+        "product": "smartTrac",
+        "url": "https://tractian.com/es/producto/sensor-vibracion/insights-y-diagnosticos"
+      },
+      "en": {
+        "description": "Identify asset failures and receive accurate reports on how to act.",
+        "product": "smartTrac",
+        "url": "https://tractian.com/en/product/vibration-sensor/insights-and-diagnosis"
+      }
+    },
+    {
+      "id": "vibrationAnalysis",
+      "pt": {
+        "description": "Análise comparativa, contínua e automática dos dados de vibração.",
+        "product": "smartTrac",
+        "url": "https://tractian.com/produto/sensor-vibracao/analise-de-vibracao"
+      },
+      "es": {
+        "description": "Análisis comparativo, automático y continuo de los datos de vibración.",
+        "product": "smartTrac",
+        "url": "https://tractian.com/es/producto/sensor-vibracion/analisis-de-vibraciones"
+      },
+      "en": {
+        "description": "Automatic, continuous and comparative analysis of vibration data.",
+        "product": "smartTrac",
+        "url": "https://tractian.com/en/product/vibration-sensor/vibration-analysis"
+      }
+    },
+    {
+      "id": "compatibleAssets",
+      "pt": {
+        "description": "Ativos inteligentes e monitorados automaticamente pelo Smart Trac.",
+        "product": "smartTrac",
+        "url": "https://tractian.com/ativos-monitorados"
+      },
+      "es": {
+        "description": "Activos inteligentes rastreados automáticamente con Smart Trac.",
+        "product": "smartTrac",
+        "url": "https://tractian.com/es/activos-monitoreados"
+      },
+      "en": {
+        "description": "Smart and automatically monitored assets by Smart Trac.",
+        "product": "smartTrac",
+        "url": "https://tractian.com/en/assets-monitored"
+      }
+    },
+    {
+      "id": "energyReports",
+      "pt": {
+        "description": "Gestão à vista de alto nível, com dados precisos que garantem eficiência.",
+        "product": "energyTrac",
+        "url": "https://tractian.com/produto/sensor-energia/relatorios-de-energia"
+      },
+      "es": {
+        "description": "Gestión de alto nivel de un vistazo, con datos precisos que garantizan la eficiencia.",
+        "product": "energyTrac",
+        "url": "https://tractian.com/es/producto/sensor-energia/informes-de-energia"
+      },
+      "en": {
+        "description": "High-level visual management, with accurate data that ensures efficiency.",
+        "product": "energyTrac",
+        "url": "https://tractian.com/en/product/energy-sensor/energy-reports"
+      }
+    },
+    {
+      "id": "currentMonitoring",
+      "pt": {
+        "description": "Acompanhe dados de corrente dos ativos e receba diagnósticos da rede elétrica.",
+        "product": "energyTrac",
+        "url": "https://tractian.com/produto/sensor-energia/monitoramento-de-corrente"
+      },
+      "es": {
+        "description": "Haz un seguimiento de datos actuales de los activos y diagnósticos de la red eléctrica.",
+        "product": "energyTrac",
+        "url": "https://tractian.com/es/producto/sensor-energia/monitoreo-de-corriente"
+      },
+      "en": {
+        "description": "Track asset current data and receive diagnostics regarding the power grid.",
+        "product": "energyTrac",
+        "url": "https://tractian.com/en/product/energy-sensor/current-monitoring"
+      }
+    },
+    {
+      "id": "floorPlans",
+      "pt": {
+        "description": "Acompanhe os ativos na planta virtual para uma gestão mais atenta e otimizada.",
+        "product": "energyTrac",
+        "url": "https://tractian.com/supervisorio"
+      },
+      "es": {
+        "description": "Sigue los activos en la planta virtual para una gestión más atenta y optimizada.",
+        "product": "energyTrac",
+        "url": "https://tractian.com/es/supervisor"
+      },
+      "en": {
+        "description": "Track all assets in the virtual floorplan for a more accurate and optimized management.",
+        "product": "energyTrac",
+        "url": "https://tractian.com/en/supervisor"
+      }
+    },
+    {
+      "id": "workOrderManagement",
+      "pt": {
+        "description": "Controle as atividades e automatize a manutenção com dados em tempo real.",
+        "product": "tracos",
+        "url": "https://tractian.com/produto/software-gestao-manutencao/gerenciamento-de-ordens-de-servico"
+      },
+      "es": {
+        "description": "Controla las actividades y automatiza el mantenimiento con datos en tiempo real.",
+        "product": "tracos",
+        "url": "https://tractian.com/es/producto/software-para-la-gestion-de-mantenimiento/gestion-de-ordenes-de-trabajo"
+      },
+      "en": {
+        "description": "Control activities and automate maintenance by recording data in real time.",
+        "product": "tracos",
+        "url": "https://tractian.com/en/product/maintenance-management-software/work-order-management"
+      }
+    },
+    {
+      "id": "integrations",
+      "pt": {
+        "description": "Integre todas as ferramentas que você já utiliza: do SAP ao Excel e TOTVS.",
+        "product": "tracos",
+        "url": "https://tractian.com/produto/software-gestao-manutencao/integracoes"
+      },
+      "es": {
+        "description": "Integra todas las herramientas que ya usas: de SAP a Excel y TOTVS.",
+        "product": "tracos",
+        "url": "https://tractian.com/es/producto/software-para-la-gestion-de-mantenimiento/integraciones"
+      },
+      "en": {
+        "description": "Integrate to all the tools you already use: SAP, Oracle and so many others.",
+        "product": "tracos",
+        "url": "https://tractian.com/en/product/maintenance-management-software/integrations"
+      }
+    },
+    {
+      "id": "inventoryControl",
+      "pt": {
+        "description": "Gerencie itens do inventário e reduza os custos de manutenção.",
+        "product": "tracos",
+        "url": "https://tractian.com/produto/software-gestao-manutencao/controle-de-estoque"
+      },
+      "es": {
+        "description": "Administra artículos y reduce los costos de mantenimiento.",
+        "product": "tracos",
+        "url": "https://tractian.com/es/producto/software-para-la-gestion-de-mantenimiento/control-de-inventario"
+      },
+      "en": {
+        "description": "Manage items and reduce maintenance costs with Inventory Control.",
+        "product": "tracos",
+        "url": "https://tractian.com/en/product/maintenance-management-software/inventory-control"
+      }
+    }
+  ]
+}

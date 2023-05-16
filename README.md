@@ -10,7 +10,7 @@ To use this API, use this url (<https://my-json-server.typicode.com/tractian/tra
 >#### Acessar todas as funcionalidades
 >
 >``` bash
->hhttps://my-json-server.typicode.com/tractian/tractian-web-fake-api/features
+>https://my-json-server.typicode.com/tractian/tractian-web-fake-api/features
 >```
 >
 >Ex: <https://my-json-server.typicode.com/tractian/tractian-web-fake-api/features>
@@ -18,7 +18,7 @@ To use this API, use this url (<https://my-json-server.typicode.com/tractian/tra
 >#### Access all features
 >
 >``` bash
->hhttps://my-json-server.typicode.com/tractian/tractian-web-fake-api/features
+>https://my-json-server.typicode.com/tractian/tractian-web-fake-api/features
 >```
 >
 >Ex: <https://my-json-server.typicode.com/tractian/tractian-web-fake-api/features>
